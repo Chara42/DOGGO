@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>DOGGO</title>
+	<style type="text/css">
+		body{
+			background-color: #00BDF4;
+		}
+		h1{
+			font-size:80px; 
+			text-align: center;
+			margin: 0;
+		}
+		img{
+			width: 44%;
+			margin: 30px;
+		}
+		p{
+			margin: 30;
+			font-size: 20px;
+		}
+		p{
+			font-size: 20px;
+			text-align: right;
+		}
+	</style>
+</head>
+<body>
+	<h1>Baldur</h1>
+	<img src="Fancy_Doggo.jpg">
+	<img src="Doggo_Yawn.jpg">
+	<p>Baldur is da best bud and ya better believe it!!!</p>
+	<p>-Baldur</p>
+</body>
+</html>
